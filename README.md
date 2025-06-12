@@ -1,23 +1,14 @@
-# MyST Quickstart
+# Tegan Goodman
+I am an Environmental Engineering student at San Diego State University with a passion for advancing sustainability through innovative resource management and built environment solutions. My academic background is complemented by hands-on experience in GIS analysis, environmental modeling, and civil engineering research, including tsunami simulations and sustainable concrete testing.
 
-[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+I bring proficiency in AutoCAD, MATLAB, and GIS, and have developed strong leadership, technical writing, and collaborative skills through lab research, professional organizations, and project management. As a project lead on my senior capstone, I directed the design of a desalination pretreatment system; an experience that sharpened my skills in environmental planning, scheduling, and stakeholder communication.
 
-This repository contains the files used in the [quickstart guide](https://mystmd.org/guide/quickstart), and can be used to follow that guide, before trying MyST with your own content.
+My global perspective, shaped by international study and volunteer work, reinforces my commitment to sustainability, public service, and lifelong learning. I am eager to contribute to interdisciplinary teams tackling water quality, infrastructure, and environmental resilience challenges.
 
-> **Note** This is **not** a good example of an actual MyST project! The repositories purpose is to be a simple markdown + notebook repository that can be transformed throughout a tutorial.
+:::{figure} ./images/logo.png
+:label: Profile Picture
+:alt: Profile Picture
+:align: center
 
-The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) are:
-
-1. Create a `myst` site, using the standard template
-2. Improve the frontmatter, to add authors, affiliations and other metadata
-3. Export the paper as a PDF, Word document, and LaTeX files
-4. Integrate a Jupyter Notebook output into our paper, to improve reproducibility
-5. Publish a website of with our work 🚀
-
-## Improving Frontmatter and MyST Site
-
-![](./images/frontmatter-after.png)
-
-## Export as a PDF
-
-![](./images/export-pdf.png)
+Profile Picture
+:::
