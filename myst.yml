@@ -2,8 +2,8 @@
 version: 1
 project:
   id: ab440adc-2db2-4534-8548-ad2b03879434
-  title: MyST Demo
-  subtitle: GIS Programming
+  title: Tegan Goodman
+  subtitle: Environmental Engineer
   jupyter: true
   # description:
   # keywords: []
@@ -22,16 +22,16 @@ project:
         - file: 05-research.md
 
   numbering:
-    heading_1: true
-    heading_2: true
+    heading_1: false
+    heading_2: false
 site:
   template: book-theme
   options:
-    # logo_text: Introduction to GIS Programming
+    # logo_text: Tegan Goodman
     favicon: images/favicon.ico
     logo: images/logo.png
   nav:
-    - title: Open Science
-      url: https://openscience.gishub.org
-    - title: MyST
-      url: https://mystmd.org
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/tegan-goodman/
+    - title: SDSU College of Engineering
+      url: https://www.engineering.sdsu.edu/
